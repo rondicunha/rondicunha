@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente trabalho na área de Requisitos.
-- 🌱 Estou estudando desenvolvimento em Java
+- 🌱 Estou estudando desenvolvedor
 
 ##
 
