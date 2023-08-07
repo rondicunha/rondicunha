@@ -1,8 +1,11 @@
-### Oi eu sou Rondinelle Cunha! 👋
+### Oi, eu sou Rondinelle Cunha! 👋
 
 
-- 🔭 Atualmente trabalho na área de Requisitos.
-- 🌱 Estou estudando para me tornar desenvolvedor
+- 👩‍💻 Desenvolvedor de software.
+- 🎓 Bacharel em ciências e tecnologia.
+- 🎓 Estudante de Engenharia de computação.
+- 🌐 Apaixonado por desenvolver.
+- 💡 Gosto de um bom desafio.
 
 ##
 
@@ -13,11 +16,14 @@
 </div>
 <div style="display: inline_block"><br>
 
-  <img align="center" alt="Rondi-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Rondi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rondi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rondi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rondi-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="right" alt="Rondi-pic" height="150" style="border-radius: 50px;" src="https://media.discordapp.net/attachments/805563878700220446/1045169648515158126/Design_sem_nome_2.gif?width=480&height=480">
 </div>
   
